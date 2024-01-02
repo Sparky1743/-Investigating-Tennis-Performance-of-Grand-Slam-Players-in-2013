@@ -12,3 +12,7 @@ This repository features a comprehensive Data Narrative developed as part of a c
 
 ### Course Context
 The Data Narrative formed part of the ES-114: Probability, Statistics, and Data Visualization course offered to first-year B.Tech students in April '23 at the Indian Institute of Technology, Gandhinagar.
+
+Links to two more data narratives under the same course:
+- [GoodBooks-10k-Data-Analysis](https://github.com/Sparky1743/GoodBooks-10k-Data-Analysis).
+- [Economic-Analysis-of-1995-US-Higher-Education](https://github.com/Sparky1743/Economic-Analysis-of-1995-US-Higher-Education).
